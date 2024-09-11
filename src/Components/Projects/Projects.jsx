@@ -9,17 +9,17 @@ const Projects = () => {
         <ProjectCard
           title="NodeLink Chatroom"
           main="Built a dynamic chat platform by utilizing Node.js and Socket.IO, enabling users communication. Manages two-way messaging and uninterrupted connections to facilitate concurrent interactions within a collaborative space, showcasing expertise in Node.js, Socket.IO, and real-time web application development."
-          srcimg="src/assets/chatroom.jpg"
+          srcimg="/Portfolio/assets/chatroom.jpg"
         />
         <ProjectCard
           title="Cryptocurrency Tracker"
           main="A web application which provides latest information regarding cryptocurrencies market statistics as well as latest cryptocurrencies news. The data is fetched from real time APIs."
-          srcimg="src/assets/webapp.jpg"
+          srcimg="/Portfolio/assets/webapp.jpg"
         />
         <ProjectCard
           title="NGO Nexus"
           main="A vibrant NGO activity management tool with a bevy of standout features. This contains an easy-to-use admin panel, a system for organizing volunteers that includes a way to reward them, built-in donation capabilities, and a seamless platform for content creation. All of them were painstakingly made combining the complementary strengths of Flutter and Firebase."
-          srcimg="src/assets/ngoapp.jpeg"
+          srcimg="/Portfolio/assets/ngoapp.jpeg"
         />
       </div>
     </div>
