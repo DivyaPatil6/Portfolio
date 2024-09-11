@@ -17,6 +17,7 @@ const Home = () => {
           <p className="text-sm md:text-2xl tracking-tight ">
             Passionate software developer ready to transform your vision into a digital masterpiece.
           </p>
+{/*           Resume button */}
           <a href="/Portfolio/DivyaPatil_Resume.pdf" download="DivyaPatil_Resume.pdf">
             <button className="mt-5 md:md-10 text-white py02 px-3 text-sm md:text-lg md:py-2 md:px-4 hover:opacity-85 duration-300 hover:scale-105 font-semibold rounded-3xl bg-[#465697]">
               Download Resume
